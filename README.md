@@ -29,4 +29,4 @@ extraction the building
 5.添加分析代码  
 # license：
   #https://github.com/Gao-zl/Building-Extraction  
-  高忠良大创项目建筑物提取
+  大创项目建筑物提取
