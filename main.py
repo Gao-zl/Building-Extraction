@@ -13,7 +13,7 @@ from function.Algo import LevelSet
 start = cv.getTickCount()
 
 '''---------------输入输出原图-----------------'''
-src = cv.imread("./resources/amap2.jpg")
+src = cv.imread("./resources/mid-school.jpg")
 # src = cv.imread("./resources/test_map.jpg")
 # src = cv.imread("./resources/test2.jpg")
 
@@ -55,7 +55,7 @@ img_s = S
 IterationNumber = 10  # 经验值
 # 聚类数
 # 原来代码中写的是2个聚类
-ClusterNumber = 2  # 分为前景和背景两个聚类
+ClusterNumber = 3  # 分为前景和背景两个聚类
 
 '''--------------使用k_means++算法求k个质心-------------'''
 # 初始化质心，根据聚类数确定个数
