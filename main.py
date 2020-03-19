@@ -13,7 +13,7 @@ from function.Algo import LevelSet
 start = cv.getTickCount()
 
 '''---------------输入输出原图-----------------'''
-src = cv.imread("./resources/mid-school.jpg")
+src = cv.imread("./resources/amap2.jpg")
 # src = cv.imread("./resources/test_map.jpg")
 # src = cv.imread("./resources/test2.jpg")
 
@@ -27,8 +27,6 @@ B, G, R = Deal.split(src)  # RGB顺序相反
 # 转为hsv
 hsv = cv.cvtColor(src, cv.COLOR_RGB2HSV)
 H, S, V = Deal.split(hsv)
-# cv.imshow("V", V)
-# cv.imshow("S", S)
 
 # 转换到要处理的图像
 img_v = V

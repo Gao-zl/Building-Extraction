@@ -27,11 +27,10 @@ def p2p_distance(point_a, point_b):
     :param point_b: Point类点b
     :return: 距离平方
     """
-    # bug记录1：两个value都是无符号数，无符号数直接相减肯定会出现问题，所以先判断大小
     if point_a.value > point_b.value:
         result = point_a.value - point_b.value
     else:
-        result = point_b.value - point_a.value
+        result = abs(point_b.value - point_a.value)
     return result ** 2
 
 
