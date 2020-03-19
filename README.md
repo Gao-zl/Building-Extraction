@@ -2,10 +2,13 @@
 For Innovative undertaking works.  
 extraction the building  
 # First Edition:
-简单的功能实现：能够完成特定类型建筑物的提取 
-v1.0版本：git tag 1.0可导出
-v2.0版本：git tag 2.0
-          2.0主要更新可手动绘制图像区域功能
+简单的功能实现：能够完成特定类型建筑物的提取<br>
+~~v1.0版本：git tag 1.0可导出<br>~~已删除
+v2.0版本：git tag v2.0<br>
+          2.0主要更新可手动绘制图像区域功能<br>
+v2.1版本：修改像素大小，使图片更准确显示，提取效果显著提升
+运行：通过git tag v2.1导出
+
 # Requirements：
   python 3.7.1  
   opencv-python 3.4.4.19  

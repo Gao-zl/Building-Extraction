@@ -1,4 +1,5 @@
 # coding=utf-8
+import PIL.Image
 import os
 import cv2 as cv
 import numpy as np
@@ -26,7 +27,7 @@ def deal_pic():
     src = cv.imread("cut.jpg")
     # cv.imshow("src", src)
     cv.imwrite('./result/original.png', src)
-    print("原图大小： ", src.shape)
+    print("调整后的图片大小： ", src.shape)
 
     src_ls = src.copy()
     src_final = src.copy()
@@ -110,7 +111,18 @@ def deal_pic():
     cv.imshow("original-cluster-dilate-inital_contours-final", imgs)
     plt.show("./result/histogram.png")
 
+def imgreshape():
+    infile = 'cut.jpg'
+    outfile = 'cut.jpg'
+    im = PIL.Image.open(infile)
+    (x,y) = im.size
+    print("原始图像大小：",im.size)
+    x_s = 160
+    y_s = int(y * x_s / x)
+    out = im.resize((x_s,y_s),PIL.Image.ANTIALIAS)
+    out.save(outfile)
 
 if __name__ == '__main__':
     UseCv().cut()
+    imgreshape()
     deal_pic()
