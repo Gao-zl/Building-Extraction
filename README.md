@@ -6,8 +6,8 @@ extraction the building
 ~~v1.0版本：git tag 1.0可导出~~(已删除)
 v2.0版本：git tag v2.0<br>
           2.0主要更新可手动绘制图像区域功能<br>
-v2.1版本：修改像素大小，使图片更准确显示，提取效果显著提升
-运行：通过git tag v2.1导出
+v2.5版本：修改像素大小，使图片更准确显示，提取效果显著提升
+运行：通过git tag v2.5导出
 
 # Requirements：
   python 3.7.1  
