@@ -13,7 +13,7 @@ from function.Algo import LevelSet
 
 class UseCv:
     def __init__(self):
-        self.path = './resource/test3.png'
+        self.path = './resource/test6.png'
 
     def cut(self):
         img = cv.imread(self.path, flags=cv.IMREAD_COLOR)

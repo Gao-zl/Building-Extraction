@@ -5,7 +5,7 @@ import cv2
 
 class UseCv:
     def __init__(self):
-        self.path = 'test1.png'
+        self.path = './resource/test2.png'
 
     def cut(self):
         img = cv2.imread(self.path, flags=cv2.IMREAD_COLOR)
