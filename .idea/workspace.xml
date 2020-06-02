@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e4ef34b-373c-4034-9744-e7e8ee146e0b" name="Default Changelist" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/live.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/mid-school.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/mid-school.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/school.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/teaching.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/test1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cut.jpg" afterPath="$PROJECT_DIR$/cut.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/cluster.png" afterPath="$PROJECT_DIR$/result/cluster.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/dilate.png" afterPath="$PROJECT_DIR$/result/dilate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/final.png" afterPath="$PROJECT_DIR$/result/final.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/histogram.png" afterPath="$PROJECT_DIR$/result/histogram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/inital_contours.png" afterPath="$PROJECT_DIR$/result/inital_contours.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/original.png" afterPath="$PROJECT_DIR$/result/original.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_split.py" afterPath="$PROJECT_DIR$/main_split.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/split_pic.py" afterPath="$PROJECT_DIR$/split_pic.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +43,7 @@
       <file leaf-file-name="main_split.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_split.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="19">
               <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
@@ -153,7 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -182,7 +166,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,7 +483,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20149253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32859176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16143012" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
@@ -536,6 +520,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/python3.6/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39235">
+          <caret line="2065" column="0" lean-forward="false" selection-start-line="2065" selection-start-column="0" selection-end-line="2065" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/python3.6/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49560">
+          <caret line="2065" column="0" lean-forward="false" selection-start-line="2065" selection-start-column="0" selection-end-line="2065" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_pic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -778,7 +842,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_split.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="19">
           <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
